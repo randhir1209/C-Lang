@@ -1,0 +1,2 @@
+printf("Not Palindrome");
+            break;
